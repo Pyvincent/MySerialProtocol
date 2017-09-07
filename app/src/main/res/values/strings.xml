@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySerialProtocol</string>
+    <string name="note">数据将在这里显示</string>
+</resources>
